@@ -1,0 +1,8 @@
+# MAC OS
+*.DS_Store
+
+# IDE PhpStorm
+.idea
+
+# Dependency directories
+node_modules
